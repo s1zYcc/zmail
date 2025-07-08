@@ -15,7 +15,7 @@ routes = [
 [[d1_databases]]
 binding = "DB"
 database_name = "zmail"  # 替换为您的实际的数据库 NAME
-database_id = "50e19a1b-9107-4bb9-8ee6-b0633693de81"  # 需要替换为您的实际数据库 ID
+database_id = "a1259a2d-9641-4685-918e-8b6acda19c4e"  # 需要替换为您的实际数据库 ID
 
 # 设置域名
 [vars]

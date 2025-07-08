@@ -8,7 +8,7 @@ compatibility_date = "2025-03-01"
 
 # 设置自定义域名
 routes = [
-  { pattern = "zxxe.x10.mx", custom_domain = true }
+  { pattern = "s1zyxx.dpdns.org", custom_domain = true }
 ]
 
 # 启用 D1 数据库
@@ -19,7 +19,7 @@ database_id = "a1259a2d-9641-4685-918e-8b6acda19c4e"  # 需要替换为您的实
 
 # 设置域名
 [vars]
-VITE_EMAIL_DOMAIN = "x10.mx,dpdns.org"   # 替换为您的域名列表，多个域名使用逗号 , 分割。这里的域名只是用来网页上展示，方便复制粘贴使用。
+VITE_EMAIL_DOMAIN = "dpdns.org,x10.mx"   # 替换为您的域名列表，多个域名使用逗号 , 分割。这里的域名只是用来网页上展示，方便复制粘贴使用。
 
 # 配置邮件处理
 [triggers]
